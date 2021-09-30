@@ -11,14 +11,6 @@ class Main{
 	}
 }
 
-/*
-A@1234
-this.x=10
-
-18. A@3456  Main$1@6d06d69c
-19. this.x=100
-*/
-
 
 
 
